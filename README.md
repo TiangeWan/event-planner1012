@@ -6,7 +6,7 @@ Jiaye Chen, jiayec@my.yorku.ca, sectionB lab02
 WanQin Jiang jwqlily@my.yorku.ca sectionB lab02
 
 
-Team name: Champion
+Team name: Champions
 
 Description: 
 Project: Database
