@@ -21,4 +21,7 @@ Functional requirement:
 6. Users can create different categories to manage their information
 7. Users can receive reminder if there is an event
 8. The time conflicts can be displayed if they exist
-9. 
+9. Users can set different ringtones to remind different events
+10. Users can highlight the important events
+11. The yearly holidays can be automatically displayed
+12. Users can customize the background-color of the display
