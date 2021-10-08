@@ -19,4 +19,6 @@ Functional requirement:
 4. Information can be displayed properly through a chart
 5. Collect user's data for future use
 6. Users can create different categories to manage their information
-7. 
+7. Users can receive reminder if there is an event
+8. The time conflicts can be displayed if they exist
+9. 
