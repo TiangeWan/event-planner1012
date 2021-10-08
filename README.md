@@ -22,6 +22,8 @@ Functional requirement:
 7. Users can receive reminder if there is an event
 8. The time conflicts can be displayed if they exist
 9. Users can set different ringtones to remind different events
-10. Users can highlight the important events
+10. Different colors mark the urgency or importance of the task
 11. The yearly holidays can be automatically displayed
 12. Users can customize the background-color of the display
+13. The task can be broken down to show which step is in progress, and the completion of each step.
+14. Users can set the predecessor and successor of the task and display the progress
